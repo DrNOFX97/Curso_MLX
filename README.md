@@ -1,4 +1,4 @@
-# Curso Completo: Treinamento de Modelos de Machine Learning em Apple Silicon (M1/M2/M3)
+# Curso Completo: Treino de Modelos de Machine Learning em Apple Silicon (M1/M2/M3)
 
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-M1%2FM2%2FM3-black?style=for-the-badge&logo=apple)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python)
@@ -6,7 +6,7 @@
 
 ## 📖 Sobre o Curso
 
-Este repositório contém o material completo para o curso "Como Treinar Modelos de Aprendizagem Automática no MacBook Pro M1". O objetivo é capacitar desenvolvedores e entusiastas de IA a extrair o máximo de performance da arquitetura Apple Silicon para tarefas de Machine Learning, desde a configuração do ambiente até o fine-tuning de Large Language Models (LLMs).
+Este repositório contém o material completo para o curso "Como Treinar Modelos de Aprendizagem Automática no MacBook Pro M1". O objetivo é capacitar desenvolvedores e entusiastas de IA a extrair o máximo de desempenho da arquitetura Apple Silicon para tarefas de Aprendizagem Automática (Machine Learning), desde a configuração do ambiente até o fine-tuning de Large Language Models (LLMs).
 
 O conteúdo está estruturado em módulos sequenciais, projetados para construir uma base sólida e avançar para tópicos complexos de forma gradual.
 
@@ -15,9 +15,9 @@ O conteúdo está estruturado em módulos sequenciais, projetados para construir
 - **Configuração de Ambiente:** Preparação otimizada com Homebrew, Miniforge e ambientes virtuais.
 - **Frameworks Acelerados:** Uso de TensorFlow (Metal), PyTorch (MPS) e o novo MLX da Apple.
 - **Gestão de Memória:** Estratégias para trabalhar com a Arquitetura de Memória Unificada (UMA) de 16GB.
-- **Treinamento de Modelos:** Classificação de imagens (CNNs), NLP (Transformers) e modelos tabulares (Gradient Boosting).
+- **Treino de Modelos:** Classificação de imagens (CNNs), NLP (Transformers) e modelos tabulares (Gradient Boosting).
 - **Otimização Avançada:** Técnicas de quantização (PTQ, QAT), pruning e knowledge distillation.
-- **Large Language Models (LLMs):** Fine-tuning de modelos de até 7B de parâmetros com LoRA, QLoRA e o framework MLX.
+- **Large Language Models (LLMs):** Fine-tuning (afinação) de modelos de até 7B de parâmetros com LoRA, QLoRA e o framework MLX.
 - **Deployment:** Conversão de modelos para Core ML e criação de APIs REST e interfaces com Streamlit.
 - **Projetos Práticos:** Três projetos completos para aplicar todo o conhecimento adquirido.
 
