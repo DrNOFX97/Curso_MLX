@@ -1,9 +1,4 @@
-# Uso
-profiler = ProfilerM1()
-
-# Profile de carregamento de dados
-with profiler.profile_block("Carregamento de dados"):
-    # Curso: Como Treinar Modelos de Aprendizagem Automática no MacBook Pro M1 16GB
+# Curso: Como Treinar Modelos de Aprendizagem Automática no MacBook Pro M1 16GB
 
 ## Módulo 1: Preparação do Ambiente
 
@@ -52,6 +47,7 @@ O chip M1 da Apple representa uma mudança fundamental na computação pessoal:
    - Para modelos até ~7B parâmetros, competitivo com GPUs mid-range
    - Excelente para prototipagem e experimentação
 
+
 ---
 
 ### 1.2 Configuração Inicial
@@ -60,7 +56,9 @@ O chip M1 da Apple representa uma mudança fundamental na computação pessoal:
 
 Homebrew é o gestor de pacotes essencial para macOS. Abre o Terminal e executa:
 
-```bash
+
+
+bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
@@ -130,6 +128,7 @@ brew install --cask visual-studio-code
 # Ferramentas de monitorização
 brew install htop
 ```
+
 
 ---
 
@@ -323,6 +322,7 @@ Executa:
 python teste_ambiente.py
 ```
 
+
 ---
 
 ### ✅ Checklist Módulo 1
@@ -334,6 +334,7 @@ python teste_ambiente.py
 - [ ] PyTorch MPS instalado e testado
 - [ ] Script de teste executado com sucesso
 - [ ] GPU/MPS a funcionar corretamente
+
 
 ---
 
