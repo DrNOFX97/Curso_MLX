@@ -55,15 +55,11 @@ O chip M1 da Apple representa uma mudança fundamental na computação pessoal:
 #### Passo 1: Instalar Homebrew
 
 Homebrew é o gestor de pacotes essencial para macOS. Abre o Terminal e executa:
-
-
-
-bash
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 Após instalação, adiciona ao PATH (o instalador mostrará os comandos exatos):
-
 ```bash
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zshrc
 eval "$(/opt/homebrew/bin/brew shellenv)"
