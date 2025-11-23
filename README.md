@@ -2,7 +2,7 @@
 
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-M1%2FM2%2FM3-black?style=for-the-badge&logo=apple)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python)
-![Frameworks](https://img.shields.io/badge/Frameworks-MLX-orange?TensorFlow%20%7C%20PyTorch%20%7C%20style=for-the-badge)
+![Frameworks](https://img.shields.io/badge/Frameworks-MLX-orange?TensorFlow%20%7C%20PyTorch%20%7C%20MLX-orange?style=for-the-badge)
 
 ## 📖 Sobre o Curso
 
